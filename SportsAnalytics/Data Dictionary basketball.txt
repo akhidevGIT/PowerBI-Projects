@@ -1,0 +1,24 @@
+Season: The year or period during which the basketball season took place.
+TM: Team - The team that the player is on.
+GP: Games Played - The number of games the player has participated in.
+GS: Games Started - The number of games the player started in.
+MIN: Minutes - The total number of minutes the player has spent on the court.
+FGM: Field Goals Made - The number of successful field goals (baskets) made by the player.
+FGA: Field Goals Attempted - The number of field goal attempts made by the player.
+FG%: Field Goal Percentage - The percentage of successful field goals made (FGM/FGA * 100).
+3PM: Three-Point Field Goals Made - The number of successful three-point shots made by the player.
+3PA: Three-Point Field Goals Attempted - The number of three-point shot attempts made by the player.
+3P%: Three-Point Field Goal Percentage - The percentage of successful three-point shots made (3PM/3PA * 100).
+FTM: Free Throws Made - The number of successful free throws made by the player.
+FTA: Free Throws Attempted - The number of free throw attempts made by the player.
+FT%: Free Throw Percentage - The percentage of successful free throws made (FTM/FTA * 100).
+OREB: Offensive Rebounds - The number of rebounds grabbed by the player on the offensive end of the court.
+DREB: Defensive Rebounds - The number of rebounds grabbed by the player on the defensive end of the court.
+REB: Total Rebounds - The total number of rebounds (OREB + DREB) grabbed by the player.
+AST: Assists - The number of times the player passed the ball to a teammate who then scored.
+STL: Steals - The number of times the player takes the ball away from an opposing player.
+BLK: Blocks - The number of shots blocked by the player.
+TOV: Turnovers - The number of times the player loses possession of the ball to the opposing team.
+PF: Personal Fouls - The number of fouls committed by the player.
+Points: The total points scored by the player in the season.
+Year: The year of the season, typically used to differentiate between multiple seasons.
